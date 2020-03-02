@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=jupyternotebooks
 
@@ -17,3 +16,5 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.gitignore.io/api/jupyternotebooks
+
+*.pem
